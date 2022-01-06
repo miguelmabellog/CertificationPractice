@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CertificationPractice</string>
+    <string name="corebutton">android core</string>
+    <string name="uibutton">user interface</string>
+    <string name="databutton">data management</string>
+    <string name="testbutton">test</string>
+    <string name="toastbutton">toast</string>
+    <string name="snackbutton">snackbar</string>
+    <string name="notificationbutton">notification</string>
+    <string name="viewbutton">costum view</string>
+    <string name="accesibilitybutton">accesibility</string>
+    <string name="recyclerbutton">recycler view</string>
+    <string name="menubutton">menu</string>
+    <string name="sharebutton">share preferences</string>
+    <string name="settingbutton">app setting</string>
+</resources>
