@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/mbello/AndroidStudioProjects/CertificationPractice/app/src/main/res/drawable/ic_mail.xml" value="0.1" />
+        <entry key="..\:/Users/mbello/AndroidStudioProjects/CertificationPractice/app/src/main/res/layout/activity_core.xml" value="0.1" />
         <entry key="..\:/Users/mbello/AndroidStudioProjects/CertificationPractice/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/mbello/AndroidStudioProjects/CertificationPractice/app/src/main/res/layout/activity_user_interface.xml" value="0.14285714285714285" />
       </map>
     </option>
   </component>
